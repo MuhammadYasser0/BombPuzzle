@@ -16,13 +16,13 @@
 -It demonstrates the use of Object Oriented Programming , Arrays , Loops, and randomization logic in Java while showcasing creative problem solving and game design skills.
 
 ## 2. Gameplay Flow
-**Game Start** User selects difficulty that determines wire count.
+**Game Start: ** User selects difficulty that determines wire count.
 -An array containing question refrences is randomized at the start.
-**Questioning Phase** A selection of questions is picked for the user randomly wich the user has to answer.
+**Questioning Phase: ** A selection of questions is picked for the user randomly wich the user has to answer.
 -Correct Answer -> A wire color is displayed to the user and added to an array.
 -False Answer -> A wire color is displayed to the user and a random colour is added to the array.
-**Sequence Challenge** After answering all questions the user the user reproduces the correct wire colour order.
-**End Game** The program checks the sequence and displays Success or Failure
+**Sequence Challenge: ** After answering all questions the user the user reproduces the correct wire colour order.
+**End Game: ** The program checks the sequence and displays Success or Failure.
 
 ## 3. Classes And Methods 
 
