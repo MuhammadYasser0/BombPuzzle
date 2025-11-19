@@ -25,4 +25,12 @@ The project demonstrates Object-Oriented Programming, arrays, loops, and randomi
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## 🚀 Try it in Codespaces
+
+You can run this project instantly in GitHub Codespaces:
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/supreme-couscous-69pjwj44v9prf5jgr)
+
+
+
 
