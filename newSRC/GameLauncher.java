@@ -18,12 +18,14 @@ public class GameLauncher {
         System.out.println("Hello Player");
         System.out.println("A bomb is ticking wich can only be defused by cutting the wires in a specific order");
         System.out.println("");
-        System.out.println("You will be asked 3 diffrent questions related to computer science");
+        System.out.println("You will be asked questions related to computer science");
         System.out.println("");
         System.out.println("After answering each question you will recieve a wire colour");
         System.out.println("");
         System.out.println("The wire sequence is the same as the order you recievied the colours,");
-
+        System.out.println("");
+        System.out.println("Good luck!");
+        
         diff.askDifficulty(scan);
         diff.determineDifficulty();
         System.out.println("Answer the following questions: ");
